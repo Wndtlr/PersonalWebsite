@@ -1,3 +1,2 @@
 # PersonalWebsite
-A personal website designed to showcase some of my past projects and to give a brief introduction about myself. 
-Hello!
+Hi! This is the repository for my personal website to not only showcase some of my work but also to further grow my understanding of version control and aspects of web development! 
